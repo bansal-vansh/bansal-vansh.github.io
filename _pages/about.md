@@ -17,10 +17,10 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a second-year doctoral student in the [Department of Statistics and Data Sciences](https://stat.utexas.edu/) at the Univesity of Texas at Austin, where I am fortunate to be co-advised by [Alessandro Rinaldo](https://arinaldo.github.io/) and [Purnamrita Sarkar](https://psarkar.github.io/). My research focuses on the intersection of high-dimensional statistics and deep learning, with an interest in developing computationally efficient sampling algorithms and applying them to key problems in statistical inference, uncertainty quantification, and fairness in machine learning models.
+I am a third-year doctoral student in the [Department of Statistics and Data Sciences](https://stat.utexas.edu/) at UT Austin, where I am fortunate to be working with [Alessandro Rinaldo](https://arinaldo.github.io/), [Purnamrita Sarkar](https://psarkar.github.io/), and [James Scott](https://jgscott.github.io/). My research focuses at the intersection of high-dimensional statistics and deep learning, with an interest in developing computationally efficient sampling algorithms and applying them to key problems in statistical inference, uncertainty quantification, and fairness in machine learning models.
 
 Previously, I completed my bachelor's degree in the [Department of Computer Science and Engineering](https://cse.iitk.ac.in/) at the Indian Institute of Technology, Kanpur, where I had the privelege to be advised by [Dootika Vats](https://dvats.github.io/). I also had the opportunity to work with the amazing [Piyush Rai](https://www.cse.iitk.ac.in/users/piyush/), [Vipul Arora](https://vipular.github.io/) and [Ashutosh Modi](https://ashutosh-modi.github.io/).
 
 Beyond work, I am an Indian classical vocalist and I enjoy going for hikes. 
 
-PS: I'd try my best to give my advice and feedback to those who are applying to graduate programs in statistics, machhine learning or related fields, particularly to those for whom this type of feedback would usually be unavailable. The best way to reach out to me is by email.
+PS: I'd try my best to give my advice and feedback to those who are applying to graduate programs in statistics, machine learning or related fields, particularly to those for whom this type of feedback would usually be unavailable. The best way to reach out to me is by email.
