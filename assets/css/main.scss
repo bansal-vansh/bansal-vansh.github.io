@@ -23,3 +23,19 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// Custom override for the publication award button
+ol.bibliography li .links a.award.btn {
+  // Default state
+  background-color: var(--global-theme-color);
+  border-color: var(--global-theme-color);
+  color: #ffffff;
+  font-weight: bold;
+
+  // Hover state
+  &:hover {
+    background-color: #ffffff;
+    color: var(--global-theme-color);
+    border-color: var(--global-theme-color);
+  }
+}

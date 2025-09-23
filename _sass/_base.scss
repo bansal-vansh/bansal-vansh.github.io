@@ -763,21 +763,21 @@ footer.sticky-bottom {
             border-color: var(--global-theme-color);
           }
         }
-        // a.award.btn {
-        //   border-color: var(--global-highlight-color);
-        // }
         a.award.btn {
-          background-color: var(--global-theme-color);
-          border-color: var(--global-theme-color);
-          color: #ffffff;
-          font-weight: bold;
-
-          &:hover {
-            background-color: #ffffff;
-            color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
-          }
+          border-color: var(--global-highlight-color);
         }
+        // a.award.btn {
+        //   background-color: var(--global-theme-color);
+        //   border-color: var(--global-theme-color);
+        //   color: #ffffff;
+        //   font-weight: bold;
+
+        //   &:hover {
+        //     background-color: #ffffff;
+        //     color: var(--global-theme-color);
+        //     border-color: var(--global-theme-color);
+        //   }
+        // }
       }
 
       .badges {
