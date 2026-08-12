@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Selected as a <span style="color:dodgerblue; font-weight:bold;">top reviewer</span> at NeurIPS 2025.
+Selected as a <span style="color:dodgerblue; font-weight:bold;">top reviewer (top 10%)</span> at NeurIPS 2025.
