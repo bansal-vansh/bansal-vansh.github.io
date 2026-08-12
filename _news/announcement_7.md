@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper titled "On the convergence and straightness of Rectified Flows" got accepted at AISTATS 2026.
+Our paper titled "On the convergence and straightness of Rectified Flows" got accepted at <span style="color:dodgerblue; font-weight:bold;">AISTATS 2026</span>.

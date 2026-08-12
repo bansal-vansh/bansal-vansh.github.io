@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper titled "Score-Guided Proximal Projection: A Unified Geometric Framework for Rectified Flow Editing" got accepted at ICLR 2026 (DeLTA workshop).
+Our paper titled "Score-Guided Proximal Projection: A Unified Geometric Framework for Rectified Flow Editing" got accepted at <span style="color:dodgerblue; font-weight:bold;">ICLR 2026 (DeLTA workshop)</span>.
